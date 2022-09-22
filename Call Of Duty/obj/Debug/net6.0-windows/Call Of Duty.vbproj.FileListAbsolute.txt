@@ -1,0 +1,17 @@
+C:\Users\Pusheen Desktop\source\repos\Call Of Duty\bin\Debug\net6.0-windows\Call Of Duty.exe
+C:\Users\Pusheen Desktop\source\repos\Call Of Duty\bin\Debug\net6.0-windows\Call Of Duty.deps.json
+C:\Users\Pusheen Desktop\source\repos\Call Of Duty\bin\Debug\net6.0-windows\Call Of Duty.runtimeconfig.json
+C:\Users\Pusheen Desktop\source\repos\Call Of Duty\bin\Debug\net6.0-windows\Call Of Duty.dll
+C:\Users\Pusheen Desktop\source\repos\Call Of Duty\bin\Debug\net6.0-windows\Call Of Duty.pdb
+C:\Users\Pusheen Desktop\source\repos\Call Of Duty\obj\Debug\net6.0-windows\Call Of Duty.vbproj.AssemblyReference.cache
+C:\Users\Pusheen Desktop\source\repos\Call Of Duty\obj\Debug\net6.0-windows\Call_Of_Duty.Form1.resources
+C:\Users\Pusheen Desktop\source\repos\Call Of Duty\obj\Debug\net6.0-windows\Call Of Duty.vbproj.GenerateResource.cache
+C:\Users\Pusheen Desktop\source\repos\Call Of Duty\obj\Debug\net6.0-windows\Call Of Duty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pusheen Desktop\source\repos\Call Of Duty\obj\Debug\net6.0-windows\Call Of Duty.AssemblyInfoInputs.cache
+C:\Users\Pusheen Desktop\source\repos\Call Of Duty\obj\Debug\net6.0-windows\Call Of Duty.AssemblyInfo.vb
+C:\Users\Pusheen Desktop\source\repos\Call Of Duty\obj\Debug\net6.0-windows\Call Of Duty.vbproj.CoreCompileInputs.cache
+C:\Users\Pusheen Desktop\source\repos\Call Of Duty\obj\Debug\net6.0-windows\Call Of Duty.dll
+C:\Users\Pusheen Desktop\source\repos\Call Of Duty\obj\Debug\net6.0-windows\refint\Call Of Duty.dll
+C:\Users\Pusheen Desktop\source\repos\Call Of Duty\obj\Debug\net6.0-windows\Call Of Duty.pdb
+C:\Users\Pusheen Desktop\source\repos\Call Of Duty\obj\Debug\net6.0-windows\Call Of Duty.genruntimeconfig.cache
+C:\Users\Pusheen Desktop\source\repos\Call Of Duty\obj\Debug\net6.0-windows\ref\Call Of Duty.dll
